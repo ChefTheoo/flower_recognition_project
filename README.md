@@ -24,4 +24,4 @@ Dependencies :
 
 Installation :
 ```bash
-pip install tensorflow numpy matplotlib jupyter```
+pip install tensorflow numpy matplotlib jupyter
