@@ -1,0 +1,5 @@
+#Ignore the models folder
+models/
+
+#Ignore every Keras files
+*.keras
