@@ -1,5 +1,5 @@
-#Ignore the models folder
+#Ignore models & vscode folders
 models/
-
+.vscode/
 #Ignore every Keras files
 *.keras
